@@ -1,4 +1,4 @@
-# Avoid n+1 queries on rails code examles (sample)
+# Avoid n+1 queries on rails code examples (sample)
 
 You will find one directory per section, with different examples.
 
